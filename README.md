@@ -17,7 +17,7 @@ cd nft-shuffler
 
 ## Usage
 
-Before running the NFT Shuffler, ensure that you place the initial files into the designated "input" folder. While the subfolders within the "input/" folder are not required to follow a specific naming convention, it is crucial that the folder or folders include both an "images" and a "metadata" folder, named exactly as specified. Also, ensure that both the images and metadata folders contain an equal number of files.
+Before running the NFT Shuffler, ensure that you place the initial files into the designated "input" folder. While the subfolders within the `input` folder are not required to follow a specific naming convention, it is crucial that the folder or folders include both an `images` and a `metadata` folder, named exactly as specified. Also, ensure that both the images and metadata folders contain an equal number of files.
 
 ```shell
 input/
