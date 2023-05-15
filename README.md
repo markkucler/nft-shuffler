@@ -11,7 +11,7 @@ The NFT Shuffler app simplifies the process of preparing NFTs by organizing meta
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/username/nft-shuffler.git
+git clone https://github.com/markkucler/nft-shuffler.git
 cd nft-shuffler
 ```
 
