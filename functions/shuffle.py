@@ -15,7 +15,7 @@ def shuffle():
 
     # Get list of file numbers
     metadata_files = [f for f in os.listdir(os.path.join(combined_path, 'metadata')) if f.endswith('.json')]
-    file_numbers = list(range(1, len(metadata_files) + 1))  # Adjust this range to match your actual number of files
+    file_numbers = list(range(1, len(metadata_files) + 1))
 
     # Shuffle file numbers
     random.shuffle(file_numbers)
